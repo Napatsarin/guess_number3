@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:guess_numberflutter/game.dart';
+import 'package:guess_number3/game.dart';
 
 class GamePage extends StatefulWidget{
   @override
